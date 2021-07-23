@@ -213,7 +213,6 @@ exit 0
       <literal>t</literal> instead of <literal>config:type</literal> to specify
       the element type.
      </para>
-
      <screen>&lt;mode t="boolean"&gt;true&lt;/mode&gt;</screen>
     </tip>
    </sect2>
